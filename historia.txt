@@ -2,9 +2,7 @@ Esta es mi historia.
 
 Tengo 25 Años.
 
-Esta es una practica de git.
-
 Soy apasionado de la tecnologia, mas en concreto
  de la robotica, y el transhumanismo.
 
- Aunque tengo tantas ambiciones.....
+ Aunque tengo tantas ambiciones..... muchas
