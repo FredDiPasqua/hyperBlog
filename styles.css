@@ -25,6 +25,10 @@ body {
     vertical-align: middle;
 }
 
+#wallpaper {
+    width: 100%;
+}
+
 #container {
     width: 70%;
     padding: 0;
